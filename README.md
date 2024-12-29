@@ -6,7 +6,7 @@ discord.goの簡単なBOT
 go get github.com/bwmarrin/discordgo github.com/joho/godotenv
 ```
 **config.jsonでプレフィックス設定**
-```
+```json
 {
   "prefix": "!"
 }
